@@ -1,18 +1,17 @@
-public class eje1_1 {
-    public static void main(String[] args){
-        System.out.println("Números perfectos entre 1 y 1000:");
-
-        for (int num = 1; num <= 1000; num++) {
-            int sumaDivisores = 0;
-
-            for (int i = 1; i < num; i++) { // Divisores propios
-                if (num % i == 0) {
-                    sumaDivisores += i;
+/*1. Mostrar los números perfectos entre 1 y 1000.*/
+public class eje1_2{
+    public static void main(String[] args) {
+        int i, j, suma;
+        System.out.println("Números perfectos entre 1 y 1000: ");
+        for(i=1;i <= 1000;i++){      // i es el número que vamos a comprobar
+            suma = 0;
+            for(j = 1;j < i;j++){    // j son los divisores. Se divide desde 1 hasta i-1
+                if(i % j==0){
+                    suma = suma + j; // si es divisor se suma
                 }
             }
-
-            if (sumaDivisores == num) { // Verifica si el número es perfecto
-                System.out.println(num);
+            if(i == suma){             // si el numero es igual a la suma de sus divisores es perfecto
+                System.out.println(i);
             }
         }
     }

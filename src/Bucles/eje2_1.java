@@ -7,7 +7,7 @@ Instrucciones:
 */
 import java.util.Scanner;
 
-public class eje2_2 {
+public class eje2_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         final int TARIFA_HORA = 15;

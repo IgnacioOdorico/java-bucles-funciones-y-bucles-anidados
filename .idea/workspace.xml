@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="953da5ea-042f-4d4b-8cbf-61deb3524419" name="Changes" comment="" />
+    <list default="true" id="953da5ea-042f-4d4b-8cbf-61deb3524419" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Bucles Funciones BuclesAnidados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/eje1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/eje2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/eje3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/eje4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles/eje5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles_anidados/eje1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles_anidados/eje2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles_anidados/eje3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles_anidados/eje4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles_anidados/eje5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bucles_anidados/eje6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje8_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funciones/eje9_3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +52,77 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.eje1_1.executor": "Run",
+    "Application.eje1_2.executor": "Run",
+    "Application.eje1_3.executor": "Run",
+    "Application.eje2_2.executor": "Run",
+    "Application.eje2_3.executor": "Run",
+    "Application.eje3_1.executor": "Run",
+    "Application.eje3_2.executor": "Run",
+    "Application.eje3_3.executor": "Run",
+    "Application.eje4_1.executor": "Run",
+    "Application.eje4_2.executor": "Run",
+    "Application.eje4_4.executor": "Run",
+    "Application.eje5_1.executor": "Run",
+    "Application.eje5_2.executor": "Run",
+    "Application.eje5_3.executor": "Run",
+    "Application.eje6_2.executor": "Run",
+    "Application.eje6_3.executor": "Run",
+    "Application.eje7_3.executor": "Run",
+    "Application.eje8_3.executor": "Run",
+    "Application.eje9_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.eje9_3">
+    <configuration name="eje5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eje5_3" />
+      <module name="Java Bucles Funciones BuclesAnidados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eje6_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eje6_3" />
+      <module name="Java Bucles Funciones BuclesAnidados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eje7_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eje7_3" />
+      <module name="Java Bucles Funciones BuclesAnidados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eje8_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eje8_3" />
+      <module name="Java Bucles Funciones BuclesAnidados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eje9_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eje9_3" />
+      <module name="Java Bucles Funciones BuclesAnidados" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.eje9_3" />
+        <item itemvalue="Application.eje8_3" />
+        <item itemvalue="Application.eje7_3" />
+        <item itemvalue="Application.eje6_3" />
+        <item itemvalue="Application.eje5_3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +133,16 @@
       <updated>1732583211117</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Bucles_anidados/eje1_2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

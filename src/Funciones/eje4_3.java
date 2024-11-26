@@ -1,5 +1,5 @@
 /*Ejercicio 4: Cálculo de descuentos para fidelización*/
-public class eje4_4 {
+public class eje4_3 {
     public static void main(String[] args) {
         String[] clientes = {"Juan", "María", "Carlos", "Ana", "Pedro"};
         int[] compras = {12, 8, 15, 10, 20};
